@@ -1,4 +1,4 @@
-"# myntra-clone" 
+"# Frontend myntra clone and a dummy backend" 
 
 
 ![Screenshot 2025-03-31 152820](https://github.com/user-attachments/assets/bf87edeb-04fc-4ca5-ba70-e16ba67de5fd)
